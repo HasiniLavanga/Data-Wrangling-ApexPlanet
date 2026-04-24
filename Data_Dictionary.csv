@@ -1,0 +1,16 @@
+Column Name,Data Type,Description
+ship_mode,object,Add appropriate description here
+segment,object,Add appropriate description here
+country,object,Add appropriate description here
+city,object,Add appropriate description here
+state,object,Add appropriate description here
+postal_code,int64,Add appropriate description here
+region,object,Add appropriate description here
+category,object,Add appropriate description here
+sub-category,object,Add appropriate description here
+sales,float64,Add appropriate description here
+quantity,float64,Add appropriate description here
+discount,float64,Add appropriate description here
+profit,float64,Add appropriate description here
+profit_ratio,float64,Add appropriate description here
+sales_category,category,Add appropriate description here
