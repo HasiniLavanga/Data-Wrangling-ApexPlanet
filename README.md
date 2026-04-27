@@ -1,35 +1,27 @@
-# Data Immersion & Wrangling - Apex Planet Internship
+## 📊 Task-2: Exploratory Data Analysis (EDA)
 
-## 📌 Objective
-Clean and prepare raw dataset for analysis.
+This phase focuses on analyzing the cleaned dataset to uncover patterns, trends, and relationships.
 
-## 📊 Dataset
-Superstore Sales Dataset
+### 🔹 Key Activities:
+- Performed descriptive statistics and univariate analysis  
+- Created visualizations (histograms, bar charts, scatter plots)  
+- Conducted correlation analysis using heatmaps  
+- Explored relationships between sales, profit, and quantity  
 
-## 🔍 Steps Performed
-- Data profiling
-- Duplicate removal
-- Data cleaning and formatting
-- Outlier handling using clipping
-- Feature engineering
+### 📈 Visualizations:
+- Sales Distribution  
+- Profit Distribution  
+- Sales by Region  
+- Profit by Category  
+- Sales vs Profit Scatter Plot  
+- Correlation Heatmap  
 
-## ⚙️ Features Created
-- Profit Ratio
-- Sales Category
+### 📊 Key Insights:
+- West region generates the highest sales  
+- Office Supplies is the most profitable category  
+- Higher discounts often reduce profit  
 
-## 📈 Key Insights
-- West region has highest sales
-- Office Supplies is most profitable category
-
-## 🛠 Tools Used
-- Python
-- Pandas
-- NumPy
-
-## 📂 Output Files
-- Cleaned_Superstore.csv
-- Data_Dictionary.csv
-- data_cleaning.py
-
-## 🚀 Note
-This project focuses on data cleaning, so deployment is not required.
+### 📂 Files Included:
+- eda_analysis.py  
+- eda_insights.csv  
+- EDA visualization images  
